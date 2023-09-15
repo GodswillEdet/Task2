@@ -24,3 +24,46 @@ You can install Django and Django Rest Framework using pip:
 
 ```bash
 pip install django djangorestframework
+
+
+
+## Installation
+1. Clone this repository:
+
+git clone https://github.com/yourusername/your-api.git
+cd your-api
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
