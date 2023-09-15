@@ -53,8 +53,7 @@ Delete a User: DELETE /api/{user_id}/
 
 
 
-**Examples**
-
+## Examples
 
 
 Here are some examples of how to use the API:
